@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459223975325",
+    "firebase_url": "https://emailtest-bc92a.firebaseio.com",
+    "project_id": "emailtest-bc92a",
+    "storage_bucket": "emailtest-bc92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459223975325:android:c455c4f29e67ef64",
+        "android_client_info": {
+          "package_name": "com.example.mehed.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459223975325-m4h4crrd2r332nugepcqt5rgf0ici98l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGSjSipXRd5YWBFOOIGifuXyrvI17RNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
